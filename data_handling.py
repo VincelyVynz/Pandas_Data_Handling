@@ -14,7 +14,7 @@ df["Total_Sales"] = df["Units_Sold"] * df["Unit_Price"]
 # Filtering sales over 100000
 
 high_sales = df[df["Total_Sales"] > 100_000].reset_index(drop=True)
-print(high_sales)
+
 
 # Grouping
 
