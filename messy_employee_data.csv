@@ -1,0 +1,28 @@
+employee_id,name,age,salary,department,hire_date,email
+1,John Doe,29,55000,Engineering,2020-01-15,john.doe@company.com
+2,Jane Smith,,62000,Marketing,2019-07-01,jane.smith@company.com
+3,Bob Lee,thirty,48000,Sales,2021-03-10,bob.lee@company.com
+4,Alice Wong,27,not_available,Engineering,2020-11-20,alice.wong@company.com
+5,Chris Evans,45,85000,Management,2018-05-30,chris.evans@company.com
+6,,34,72000,Engineering,2022-02-14,no_name@company.com
+7,Sarah Connor,29,55000,Engineering,2020-01-15,sarah.connor@company.com
+7,Sarah Connor,29,55000,Engineering,2020-01-15,sarah.connor@company.com
+8,Mark Brown,120,40000,HR,2021-06-01,mark.brown@company.com
+9,Lisa Ray,31,51000,,2020-09-18,lisa.ray@company.com
+10,Tom Hardy,28,53000,Sales,invalid_date,tom.hardy@company.com
+11,Michael Scott,42,100000,Management,2005-01-01,bestboss@company.com
+12,Pam Beesly,30,45000,Sales,2010-05-12,pam.b@company.com
+12,Pam Beesly,30,45000,Sales,2010-05-12,pam.b@company.com
+13,Jim Halpert,32,52000,Sales,2010-05-12,jim.h@company.com
+14,Dwight Schrute,35,unknown,Sales,2008-03-20,beets@company.com
+15,Angela Martin,NaN,50000,Accounting,2009-11-15,angela.m@company.com
+16,Kevin Malone,40,42000,Accounting,2011-02-28,cookies@company.com
+17,Oscar Martinez,38,60000,,2007-06-05,oscar.m@company.com
+18,Stanley Hudson,58,58000,Sales,2000-01-01,crossword@company.com
+19,Ryan Howard,twenty-five,30000,Temp,2023-09-01,ryan.h@company.com
+20,Kelly Kapoor,30,45000,Customer Service,2015-02-14,kelly.k@company.com
+21,Toby Flenderson,45,NaN,HR,2005-03-10,toby.f@company.com
+22,Creed Bratton,75,200000,Quality Assurance,0000-00-00,creed@company.com
+23,Meredith Palmer,45,40000,Engineering,2012-08-12,meredith.p@company.com
+24,Darryl Philbin,40,65000,Warehouse,2010-10-10,darryl.p@company.com
+25,,22,35000,Sales,2024-01-01,new_hire@company.com
