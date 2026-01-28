@@ -23,4 +23,3 @@ print(regional_product_sales.size())
 #aggregated = df.groupby(["Region", "Product"])["Total_sales"].agg(['sum','mean','count'])
 
 aggregated_df = df.groupby(["Region", "Product"])["Total_sales"].agg(['sum', 'mean', 'count'])
-print(aggregated_df)
