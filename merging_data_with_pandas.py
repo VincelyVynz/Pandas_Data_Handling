@@ -40,7 +40,7 @@ st.dataframe(left_joined_df)
 # Missing relationships
 st.header("Missing Relationships")
 
-customers_without_orders = left_joined_df[left_joined_df["order_id"].isna()]
+customers_without_orders = left_joined_df[left_joined_df["order_id"].isna()].reset_index()
 st.subheader("Customers without Orders")
 st.dataframe(customers_without_orders)
 
