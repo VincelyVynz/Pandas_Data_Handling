@@ -1,0 +1,301 @@
+Order_ID,City,Product,Product_Category,Units_Sold,Unit_Price,Unit_Cost
+30000,New York,Electric Kettle,Kitchen Appliances,142,44.99,28.50
+30001,Los Angeles,Air Fryer XL,Kitchen Appliances,68,129.99,84.50
+30002,Chicago,Blender Pro 500,Kitchen Appliances,88,89.50,58.20
+30003,Houston,Nonstick Cookware Set,Kitchen Appliances,42,159.00,105.00
+30004,Phoenix,Rice Cooker 1.8L,Kitchen Appliances,94,55.00,36.30
+30005,Philadelphia,Wireless Earbuds,Electronics,112,79.99,51.20
+30006,San Antonio,Noise Cancelling Headphones,Electronics,54,199.00,135.00
+30007,San Diego,Smartphone Power Bank,Electronics,165,34.50,21.40
+30008,Dallas,LED Desk Lamp,Electronics,108,24.95,15.20
+30009,San Jose,Smart Home Plug,Electronics,195,19.99,11.60
+30010,Austin,Laundry Detergent 5L,Household Essentials,385,18.99,10.45
+30011,Jacksonville,Paper Towel 12-Pack,Household Essentials,412,22.50,12.80
+30012,San Francisco,Dish Soap 1L,Household Essentials,480,8.50,4.25
+30013,Columbus,All-Purpose Cleaner Spray,Household Essentials,395,6.99,3.50
+30014,Indianapolis,Trash Bags Heavy Duty,Household Essentials,310,14.95,8.20
+30015,Fort Worth,Lipstick Matte Rose,Beauty,445,18.00,9.15
+30016,Charlotte,Vitamin C Face Serum,Beauty,325,32.00,17.40
+30017,Seattle,Hair Dryer Ionic,Beauty,115,65.00,42.25
+30018,Denver,Moisturizing Face Cream,Beauty,288,28.50,15.40
+30019,El Paso,Shampoo Repair Care,Beauty,340,15.99,8.75
+30020,Washington,Electric Scooter,Transport,12,499.00,345.00
+30021,Boston,Bike Helmet Urban,Transport,48,59.95,38.50
+30022,Nashville,Car Dash Camera,Transport,32,110.00,74.20
+30023,Detroit,Portable Tire Inflator,Transport,55,45.00,29.25
+30024,Oklahoma City,Electric Kettle,Kitchen Appliances,128,45.50,29.10
+30025,Portland,Air Fryer XL,Kitchen Appliances,72,128.50,85.00
+30026,Las Vegas,Blender Pro 500,Kitchen Appliances,105,89.99,59.50
+30027,Memphis,Nonstick Cookware Set,Kitchen Appliances,38,162.00,110.00
+30028,Louisville,Rice Cooker 1.8L,Kitchen Appliances,82,54.00,34.50
+30029,Baltimore,Wireless Earbuds,Electronics,135,78.50,52.00
+30030,Milwaukee,Noise Cancelling Headphones,Electronics,62,195.00,128.00
+30031,Albuquerque,Smartphone Power Bank,Electronics,182,35.00,22.10
+30032,Tucson,LED Desk Lamp,Electronics,115,25.50,16.20
+30033,Fresno,Smart Home Plug,Electronics,210,18.50,11.40
+30034,Sacramento,Laundry Detergent 5L,Household Essentials,405,19.50,11.20
+30035,Kansas City,Paper Towel 12-Pack,Household Essentials,425,21.99,12.50
+30036,Mesa,Dish Soap 1L,Household Essentials,475,8.25,4.35
+30037,Atlanta,All-Purpose Cleaner Spray,Household Essentials,415,7.50,3.90
+30038,Omaha,Trash Bags Heavy Duty,Household Essentials,355,15.25,9.10
+30039,Colorado Springs,Lipstick Matte Rose,Beauty,410,17.50,8.80
+30040,Raleigh,Vitamin C Face Serum,Beauty,315,31.50,18.20
+30041,Long Beach,Hair Dryer Ionic,Beauty,95,68.00,44.50
+30042,Virginia Beach,Moisturizing Face Cream,Beauty,295,29.00,16.50
+30043,Miami,Shampoo Repair Care,Beauty,365,16.50,9.20
+30044,Oakland,Electric Scooter,Transport,15,485.00,320.00
+30045,Minneapolis,Bike Helmet Urban,Transport,42,62.00,41.00
+30046,Tulsa,Car Dash Camera,Transport,38,115.00,78.50
+30047,Arlington,Portable Tire Inflator,Transport,52,48.00,31.00
+30048,New Orleans,Electric Kettle,Kitchen Appliances,140,46.00,31.20
+30049,Wichita,Air Fryer XL,Kitchen Appliances,65,132.00,91.00
+30050,Cleveland,Blender Pro 500,Kitchen Appliances,92,88.00,56.50
+30051,Tampa,Nonstick Cookware Set,Kitchen Appliances,45,155.00,102.00
+30052,Bakersfield,Rice Cooker 1.8L,Kitchen Appliances,102,52.50,33.00
+30053,Aurora,Wireless Earbuds,Electronics,122,82.00,55.00
+30054,Honolulu,Noise Cancelling Headphones,Electronics,58,205.00,140.00
+30055,Anaheim,Smartphone Power Bank,Electronics,175,32.00,19.50
+30056,Santa Ana,LED Desk Lamp,Electronics,125,23.00,13.50
+30057,Corpus Christi,Smart Home Plug,Electronics,225,21.00,12.80
+30058,Riverside,Laundry Detergent 5L,Household Essentials,440,18.00,10.20
+30059,Lexington,Paper Towel 12-Pack,Household Essentials,455,23.00,13.50
+30060,St. Louis,Dish Soap 1L,Household Essentials,492,8.99,4.80
+30061,Stockton,All-Purpose Cleaner Spray,Household Essentials,430,7.25,4.10
+30062,Pittsburgh,Trash Bags Heavy Duty,Household Essentials,380,14.50,8.40
+30063,Saint Paul,Lipstick Matte Rose,Beauty,460,19.00,9.80
+30064,Cincinnati,Vitamin C Face Serum,Beauty,345,33.50,19.50
+30065,Anchorage,Hair Dryer Ionic,Beauty,108,66.50,45.00
+30066,Henderson,Moisturizing Face Cream,Beauty,275,27.50,15.20
+30067,Greensboro,Shampoo Repair Care,Beauty,390,14.99,8.50
+30068,Plano,Electric Scooter,Transport,18,510.00,360.00
+30069,Newark,Bike Helmet Urban,Transport,45,58.00,36.50
+30070,Lincoln,Car Dash Camera,Transport,35,112.50,75.00
+30071,Orlando,Portable Tire Inflator,Transport,58,47.50,31.50
+30072,Irvine,Electric Kettle,Kitchen Appliances,132,44.00,29.50
+30073,Toledo,Air Fryer XL,Kitchen Appliances,78,135.00,95.00
+30074,Jersey City,Blender Pro 500,Kitchen Appliances,85,92.00,62.00
+30075,Chula Vista,Nonstick Cookware Set,Kitchen Appliances,52,158.00,108.00
+30076,Durham,Rice Cooker 1.8L,Kitchen Appliances,110,56.50,37.00
+30077,Fort Wayne,Wireless Earbuds,Electronics,145,75.00,48.00
+30078,St. Petersburg,Noise Cancelling Headphones,Electronics,64,198.00,132.00
+30079,Laredo,Smartphone Power Bank,Electronics,190,33.50,21.50
+30080,Madison,LED Desk Lamp,Electronics,130,26.00,17.50
+30081,Chandler,Smart Home Plug,Electronics,240,19.50,11.50
+30082,Buffalo,Laundry Detergent 5L,Household Essentials,415,19.25,12.00
+30083,Lubbock,Paper Towel 12-Pack,Household Essentials,465,22.00,13.20
+30084,Scottsdale,Dish Soap 1L,Household Essentials,498,8.75,4.90
+30085,Reno,All-Purpose Cleaner Spray,Household Essentials,450,7.00,3.80
+30086,Glendale,Trash Bags Heavy Duty,Household Essentials,395,14.75,8.80
+30087,Gilbert,Lipstick Matte Rose,Beauty,485,18.50,10.50
+30088,Winston-Salem,Vitamin C Face Serum,Beauty,360,34.00,21.00
+30089,North Las Vegas,Hair Dryer Ionic,Beauty,112,69.00,48.00
+30090,Irving,Moisturizing Face Cream,Beauty,305,29.99,18.50
+30091,Chesapeake,Shampoo Repair Care,Beauty,410,15.50,8.80
+30092,Norfolk,Electric Scooter,Transport,14,525.00,380.00
+30093,Fremont,Bike Helmet Urban,Transport,52,64.00,42.00
+30094,Garland,Car Dash Camera,Transport,40,118.00,82.00
+30095,Paradise,Portable Tire Inflator,Transport,62,49.99,34.00
+30096,Arlington,Electric Kettle,Kitchen Appliances,138,45.99,30.50
+30097,Richmond,Air Fryer XL,Kitchen Appliances,74,130.00,92.00
+30098,Boise,Blender Pro 500,Kitchen Appliances,98,90.50,61.00
+30099,Spokane,Nonstick Cookware Set,Kitchen Appliances,48,160.00,115.00
+30100,Des Moines,Rice Cooker 1.8L,Kitchen Appliances,115,58.00,40.00
+30101,New York,Wireless Earbuds,Electronics,150,79.99,51.20
+30102,Los Angeles,Noise Cancelling Headphones,Electronics,65,199.00,135.00
+30103,Chicago,Smartphone Power Bank,Electronics,195,34.50,21.40
+30104,Houston,LED Desk Lamp,Electronics,135,24.95,15.20
+30105,Phoenix,Smart Home Plug,Electronics,250,19.99,11.60
+30106,Philadelphia,Laundry Detergent 5L,Household Essentials,450,18.99,10.45
+30107,San Antonio,Paper Towel 12-Pack,Household Essentials,475,22.50,12.80
+30108,San Diego,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30109,Dallas,All-Purpose Cleaner Spray,Household Essentials,485,6.99,3.50
+30110,San Jose,Trash Bags Heavy Duty,Household Essentials,410,14.95,8.20
+30111,Austin,Lipstick Matte Rose,Beauty,495,18.00,9.15
+30112,Jacksonville,Vitamin C Face Serum,Beauty,375,32.00,17.40
+30113,San Francisco,Hair Dryer Ionic,Beauty,125,65.00,42.25
+30114,Columbus,Moisturizing Face Cream,Beauty,325,28.50,15.40
+30115,Indianapolis,Shampoo Repair Care,Beauty,420,15.99,8.75
+30116,Fort Worth,Electric Scooter,Transport,20,499.00,345.00
+30117,Charlotte,Bike Helmet Urban,Transport,55,59.95,38.50
+30118,Seattle,Car Dash Camera,Transport,45,110.00,74.20
+30119,Denver,Portable Tire Inflator,Transport,65,45.00,29.25
+30120,El Paso,Electric Kettle,Kitchen Appliances,145,44.99,28.50
+30121,Washington,Air Fryer XL,Kitchen Appliances,80,129.99,84.50
+30122,Boston,Blender Pro 500,Kitchen Appliances,100,89.50,58.20
+30123,Nashville,Nonstick Cookware Set,Kitchen Appliances,55,159.00,105.00
+30124,Detroit,Rice Cooker 1.8L,Kitchen Appliances,120,55.00,36.30
+30125,Oklahoma City,Wireless Earbuds,Electronics,155,79.99,51.20
+30126,Portland,Noise Cancelling Headphones,Electronics,70,199.00,135.00
+30127,Las Vegas,Smartphone Power Bank,Electronics,205,34.50,21.40
+30128,Memphis,LED Desk Lamp,Electronics,145,24.95,15.20
+30129,Louisville,Smart Home Plug,Electronics,260,19.99,11.60
+30130,Baltimore,Laundry Detergent 5L,Household Essentials,460,18.99,10.45
+30131,Milwaukee,Paper Towel 12-Pack,Household Essentials,485,22.50,12.80
+30132,Albuquerque,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30133,Tucson,All-Purpose Cleaner Spray,Household Essentials,495,6.99,3.50
+30134,Fresno,Trash Bags Heavy Duty,Household Essentials,420,14.95,8.20
+30135,Sacramento,Lipstick Matte Rose,Beauty,500,18.00,9.15
+30136,Kansas City,Vitamin C Face Serum,Beauty,385,32.00,17.40
+30137,Mesa,Hair Dryer Ionic,Beauty,135,65.00,42.25
+30138,Atlanta,Moisturizing Face Cream,Beauty,335,28.50,15.40
+30139,Omaha,Shampoo Repair Care,Beauty,430,15.99,8.75
+30140,Colorado Springs,Electric Scooter,Transport,22,499.00,345.00
+30141,Raleigh,Bike Helmet Urban,Transport,60,59.95,38.50
+30142,Long Beach,Car Dash Camera,Transport,50,110.00,74.20
+30143,Virginia Beach,Portable Tire Inflator,Transport,70,45.00,29.25
+30144,Miami,Electric Kettle,Kitchen Appliances,150,44.99,28.50
+30145,Oakland,Air Fryer XL,Kitchen Appliances,85,129.99,84.50
+30146,Minneapolis,Blender Pro 500,Kitchen Appliances,105,89.50,58.20
+30147,Tulsa,Nonstick Cookware Set,Kitchen Appliances,60,159.00,105.00
+30148,Arlington,Rice Cooker 1.8L,Kitchen Appliances,125,55.00,36.30
+30149,New Orleans,Wireless Earbuds,Electronics,160,79.99,51.20
+30150,Wichita,Noise Cancelling Headphones,Electronics,75,199.00,135.00
+30151,Cleveland,Smartphone Power Bank,Electronics,215,34.50,21.40
+30152,Tampa,LED Desk Lamp,Electronics,155,24.95,15.20
+30153,Bakersfield,Smart Home Plug,Electronics,270,19.99,11.60
+30154,Aurora,Laundry Detergent 5L,Household Essentials,470,18.99,10.45
+30155,Honolulu,Paper Towel 12-Pack,Household Essentials,495,22.50,12.80
+30156,Anaheim,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30157,Santa Ana,All-Purpose Cleaner Spray,Household Essentials,500,6.99,3.50
+30158,Corpus Christi,Trash Bags Heavy Duty,Household Essentials,430,14.95,8.20
+30159,Riverside,Lipstick Matte Rose,Beauty,500,18.00,9.15
+30160,Lexington,Vitamin C Face Serum,Beauty,395,32.00,17.40
+30161,St. Louis,Hair Dryer Ionic,Beauty,145,65.00,42.25
+30162,Stockton,Moisturizing Face Cream,Beauty,345,28.50,15.40
+30163,Pittsburgh,Shampoo Repair Care,Beauty,440,15.99,8.75
+30164,Saint Paul,Electric Scooter,Transport,24,499.00,345.00
+30165,Cincinnati,Bike Helmet Urban,Transport,65,59.95,38.50
+30166,Anchorage,Car Dash Camera,Transport,55,110.00,74.20
+30167,Henderson,Portable Tire Inflator,Transport,75,45.00,29.25
+30168,Greensboro,Electric Kettle,Kitchen Appliances,155,44.99,28.50
+30169,Plano,Air Fryer XL,Kitchen Appliances,90,129.99,84.50
+30170,Newark,Blender Pro 500,Kitchen Appliances,110,89.50,58.20
+30171,Lincoln,Nonstick Cookware Set,Kitchen Appliances,65,159.00,105.00
+30172,Orlando,Rice Cooker 1.8L,Kitchen Appliances,130,55.00,36.30
+30173,Irvine,Wireless Earbuds,Electronics,165,79.99,51.20
+30174,Toledo,Noise Cancelling Headphones,Electronics,80,199.00,135.00
+30175,Jersey City,Smartphone Power Bank,Electronics,225,34.50,21.40
+30176,Chula Vista,LED Desk Lamp,Electronics,165,24.95,15.20
+30177,Durham,Smart Home Plug,Electronics,280,19.99,11.60
+30178,Fort Wayne,Laundry Detergent 5L,Household Essentials,480,18.99,10.45
+30179,St. Petersburg,Paper Towel 12-Pack,Household Essentials,500,22.50,12.80
+30180,Laredo,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30181,Madison,All-Purpose Cleaner Spray,Household Essentials,500,6.99,3.50
+30182,Chandler,Trash Bags Heavy Duty,Household Essentials,440,14.95,8.20
+30183,Buffalo,Lipstick Matte Rose,Beauty,500,18.00,9.15
+30184,Lubbock,Vitamin C Face Serum,Beauty,405,32.00,17.40
+30185,Scottsdale,Hair Dryer Ionic,Beauty,155,65.00,42.25
+30186,Reno,Moisturizing Face Cream,Beauty,355,28.50,15.40
+30187,Glendale,Shampoo Repair Care,Beauty,450,15.99,8.75
+30188,Gilbert,Electric Scooter,Transport,26,499.00,345.00
+30189,Winston-Salem,Bike Helmet Urban,Transport,70,59.95,38.50
+30190,North Las Vegas,Car Dash Camera,Transport,60,110.00,74.20
+30191,Irving,Portable Tire Inflator,Transport,80,45.00,29.25
+30192,Chesapeake,Electric Kettle,Kitchen Appliances,160,44.99,28.50
+30193,Norfolk,Air Fryer XL,Kitchen Appliances,95,129.99,84.50
+30194,Fremont,Blender Pro 500,Kitchen Appliances,115,89.50,58.20
+30195,Garland,Nonstick Cookware Set,Kitchen Appliances,70,159.00,105.00
+30196,Paradise,Rice Cooker 1.8L,Kitchen Appliances,135,55.00,36.30
+30197,Arlington,Wireless Earbuds,Electronics,170,79.99,51.20
+30198,Richmond,Noise Cancelling Headphones,Electronics,85,199.00,135.00
+30199,Boise,Smartphone Power Bank,Electronics,235,34.50,21.40
+30200,Spokane,LED Desk Lamp,Electronics,175,24.95,15.20
+30201,Des Moines,Smart Home Plug,Electronics,290,19.99,11.60
+30202,New York,Laundry Detergent 5L,Household Essentials,490,18.99,10.45
+30203,Los Angeles,Paper Towel 12-Pack,Household Essentials,500,22.50,12.80
+30204,Chicago,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30205,Houston,All-Purpose Cleaner Spray,Household Essentials,500,6.99,3.50
+30206,Phoenix,Trash Bags Heavy Duty,Household Essentials,450,14.95,8.20
+30207,Philadelphia,Lipstick Matte Rose,Beauty,500,18.00,9.15
+30208,San Antonio,Vitamin C Face Serum,Beauty,415,32.00,17.40
+30209,San Diego,Hair Dryer Ionic,Beauty,165,65.00,42.25
+30210,Dallas,Moisturizing Face Cream,Beauty,365,28.50,15.40
+30211,San Jose,Shampoo Repair Care,Beauty,460,15.99,8.75
+30212,Austin,Electric Scooter,Transport,28,499.00,345.00
+30213,Jacksonville,Bike Helmet Urban,Transport,75,59.95,38.50
+30214,San Francisco,Car Dash Camera,Transport,65,110.00,74.20
+30215,Columbus,Portable Tire Inflator,Transport,85,45.00,29.25
+30216,Indianapolis,Electric Kettle,Kitchen Appliances,165,44.99,28.50
+30217,Fort Worth,Air Fryer XL,Kitchen Appliances,100,129.99,84.50
+30218,Charlotte,Blender Pro 500,Kitchen Appliances,120,89.50,58.20
+30219,Seattle,Nonstick Cookware Set,Kitchen Appliances,75,159.00,105.00
+30220,Denver,Rice Cooker 1.8L,Kitchen Appliances,140,55.00,36.30
+30221,El Paso,Wireless Earbuds,Electronics,175,79.99,51.20
+30222,Washington,Noise Cancelling Headphones,Electronics,90,199.00,135.00
+30223,Boston,Smartphone Power Bank,Electronics,245,34.50,21.40
+30224,Nashville,LED Desk Lamp,Electronics,185,24.95,15.20
+30225,Detroit,Smart Home Plug,Electronics,300,19.99,11.60
+30226,Oklahoma City,Laundry Detergent 5L,Household Essentials,500,18.99,10.45
+30227,Portland,Paper Towel 12-Pack,Household Essentials,500,22.50,12.80
+30228,Las Vegas,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30229,Memphis,All-Purpose Cleaner Spray,Household Essentials,500,6.99,3.50
+30230,Louisville,Trash Bags Heavy Duty,Household Essentials,460,14.95,8.20
+30231,Baltimore,Lipstick Matte Rose,Beauty,500,18.00,9.15
+30232,Milwaukee,Vitamin C Face Serum,Beauty,425,32.00,17.40
+30233,Albuquerque,Hair Dryer Ionic,Beauty,175,65.00,42.25
+30234,Tucson,Moisturizing Face Cream,Beauty,375,28.50,15.40
+30235,Fresno,Shampoo Repair Care,Beauty,470,15.99,8.75
+30236,Sacramento,Electric Scooter,Transport,30,499.00,345.00
+30237,Kansas City,Bike Helmet Urban,Transport,80,59.95,38.50
+30238,Mesa,Car Dash Camera,Transport,70,110.00,74.20
+30239,Atlanta,Portable Tire Inflator,Transport,90,45.00,29.25
+30240,Omaha,Electric Kettle,Kitchen Appliances,170,44.99,28.50
+30241,Colorado Springs,Air Fryer XL,Kitchen Appliances,105,129.99,84.50
+30242,Raleigh,Blender Pro 500,Kitchen Appliances,125,89.50,58.20
+30243,Long Beach,Nonstick Cookware Set,Kitchen Appliances,80,159.00,105.00
+30244,Virginia Beach,Rice Cooker 1.8L,Kitchen Appliances,145,55.00,36.30
+30245,Miami,Wireless Earbuds,Electronics,180,79.99,51.20
+30246,Oakland,Noise Cancelling Headphones,Electronics,95,199.00,135.00
+30247,Minneapolis,Smartphone Power Bank,Electronics,255,34.50,21.40
+30248,Tulsa,LED Desk Lamp,Electronics,195,24.95,15.20
+30249,Arlington,Smart Home Plug,Electronics,310,19.99,11.60
+30250,New Orleans,Laundry Detergent 5L,Household Essentials,500,18.99,10.45
+30251,Wichita,Paper Towel 12-Pack,Household Essentials,500,22.50,12.80
+30252,Cleveland,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30253,Tampa,All-Purpose Cleaner Spray,Household Essentials,500,6.99,3.50
+30254,Bakersfield,Trash Bags Heavy Duty,Household Essentials,470,14.95,8.20
+30255,Aurora,Lipstick Matte Rose,Beauty,500,18.00,9.15
+30256,Honolulu,Vitamin C Face Serum,Beauty,435,32.00,17.40
+30257,Anaheim,Hair Dryer Ionic,Beauty,185,65.00,42.25
+30258,Santa Ana,Moisturizing Face Cream,Beauty,385,28.50,15.40
+30259,Corpus Christi,Shampoo Repair Care,Beauty,480,15.99,8.75
+30260,Riverside,Electric Scooter,Transport,32,499.00,345.00
+30261,Lexington,Bike Helmet Urban,Transport,85,59.95,38.50
+30262,St. Louis,Car Dash Camera,Transport,75,110.00,74.20
+30263,Stockton,Portable Tire Inflator,Transport,95,45.00,29.25
+30264,Pittsburgh,Electric Kettle,Kitchen Appliances,175,44.99,28.50
+30265,Saint Paul,Air Fryer XL,Kitchen Appliances,110,129.99,84.50
+30266,Cincinnati,Blender Pro 500,Kitchen Appliances,130,89.50,58.20
+30267,Anchorage,Nonstick Cookware Set,Kitchen Appliances,85,159.00,105.00
+30268,Henderson,Rice Cooker 1.8L,Kitchen Appliances,150,55.00,36.30
+30269,Greensboro,Wireless Earbuds,Electronics,185,79.99,51.20
+30270,Plano,Noise Cancelling Headphones,Electronics,100,199.00,135.00
+30271,Newark,Smartphone Power Bank,Electronics,265,34.50,21.40
+30272,Lincoln,LED Desk Lamp,Electronics,205,24.95,15.20
+30273,Orlando,Smart Home Plug,Electronics,320,19.99,11.60
+30274,Irvine,Laundry Detergent 5L,Household Essentials,500,18.99,10.45
+30275,Toledo,Paper Towel 12-Pack,Household Essentials,500,22.50,12.80
+30276,Jersey City,Dish Soap 1L,Household Essentials,500,8.50,4.25
+30277,Chula Vista,All-Purpose Cleaner Spray,Household Essentials,500,6.99,3.50
+30278,Durham,Trash Bags Heavy Duty,Household Essentials,480,14.95,8.20
+30279,Fort Wayne,Lipstick Matte Rose,Beauty,500,18.00,9.15
+30280,St. Petersburg,Vitamin C Face Serum,Beauty,445,32.00,17.40
+30281,Laredo,Hair Dryer Ionic,Beauty,195,65.00,42.25
+30282,Madison,Moisturizing Face Cream,Beauty,395,28.50,15.40
+30283,Chandler,Shampoo Repair Care,Beauty,490,15.99,8.75
+30284,Buffalo,Electric Scooter,Transport,34,499.00,345.00
+30285,Lubbock,Bike Helmet Urban,Transport,90,59.95,38.50
+30286,Scottsdale,Car Dash Camera,Transport,80,110.00,74.20
+30287,Reno,Portable Tire Inflator,Transport,100,45.00,29.25
+30288,Glendale,Electric Kettle,Kitchen Appliances,180,44.99,28.50
+30289,Gilbert,Air Fryer XL,Kitchen Appliances,115,129.99,84.50
+30290,Winston-Salem,Blender Pro 500,Kitchen Appliances,135,89.50,58.20
+30291,North Las Vegas,Nonstick Cookware Set,Kitchen Appliances,90,159.00,105.00
+30292,Irving,Rice Cooker 1.8L,Kitchen Appliances,155,55.00,36.30
+30293,Chesapeake,Wireless Earbuds,Electronics,190,79.99,51.20
+30294,Norfolk,Noise Cancelling Headphones,Electronics,105,199.00,135.00
+30295,Fremont,Smartphone Power Bank,Electronics,275,34.50,21.40
+30296,Garland,LED Desk Lamp,Electronics,215,24.95,15.20
+30297,Paradise,Smart Home Plug,Electronics,330,19.99,11.60
+30298,Arlington,Laundry Detergent 5L,Household Essentials,500,18.99,10.45
+30299,Richmond,Paper Towel 12-Pack,Household Essentials,500,22.50,12.80
