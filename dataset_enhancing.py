@@ -3,6 +3,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Retail Sales Dashboard",
+    page_icon= "💹",
     layout="wide"
 )
 
@@ -17,10 +18,10 @@ st.dataframe(df.head())
 st.write(f"Data frame shape: {df.shape}")
 
 st.subheader("Data Validation")
-st.write(f"Number of rows with missing data:")
+st.write(f"Missing data info :")
 st.dataframe(df.isnull().sum())
 
-st.write("Datatype: ")
+st.write("Datatype :")
 st.dataframe(df.dtypes)
 
 df["Revenue"] = df["Units_Sold"] * df["Unit_Price"]
@@ -52,7 +53,20 @@ df["Revenue_Norm"]    = (df["Revenue"] - df["Revenue"].min())/ (df["Revenue"].ma
 df["Profit_Norm"]     = (df["Profit"] - df["Profit"].min())/ (df["Profit"].max() - df["Profit"].min())
 
 st.subheader("Enhanced Data")
-st.dataframe(df)
+color_map = {
+    "Low": "#2a9d8f",
+    "Medium": "#66c2a5",
+    "High": "#a8ddb5"
+}
+
+# Display styled DataFrame
+st.dataframe(
+    df.style.applymap(
+        lambda x: f'background-color: {color_map[x]}; color: white;' if x in color_map else '',
+        subset=["Profit_Category"]
+    )
+)
+
 
 st.subheader("Feature Explanation")
 
