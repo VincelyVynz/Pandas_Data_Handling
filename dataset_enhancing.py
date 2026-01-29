@@ -54,12 +54,11 @@ df["Profit_Norm"]     = (df["Profit"] - df["Profit"].min())/ (df["Profit"].max()
 
 st.subheader("Enhanced Data")
 color_map = {
-    "Low": "#2a9d8f",
-    "Medium": "#66c2a5",
-    "High": "#a8ddb5"
+    "Low": "#1b4332",
+    "Medium": "#2d6a4f",
+    "High": "#40916c"
 }
 
-# Display styled DataFrame
 st.dataframe(
     df.style.applymap(
         lambda x: f'background-color: {color_map[x]}; color: white;' if x in color_map else '',
