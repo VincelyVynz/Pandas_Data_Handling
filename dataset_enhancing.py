@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import altair as alt
+import plotly.express as px
 
 st.set_page_config(
     page_title="Retail Sales Dashboard",
@@ -95,6 +96,18 @@ unit_price_vs_unit_cost = alt.Chart(df).mark_circle(size=60).encode(
     tooltip = ['Product', 'Unit_Price', 'Unit_Cost', 'Revenue', 'Profit']
 ).interactive()
 
+unit_price_vs_units_sold_vs_profit = px.scatter_3d(
+    df,
+    x = 'Unit_Price',
+    y = 'Units_Sold',
+    z = 'Profit',
+    color = 'Product_Category',
+    size = 'Revenue',
+    hover_data=['Unit_Price', 'Unit_Cost', 'Revenue', 'Profit', 'City', 'Product']
+)
+unit_price_vs_units_sold_vs_profit.update_layout(template = 'plotly_dark')
+
+
 st.header("Profit and Revenue")
 
 st.subheader("Profit by Product Category")
@@ -115,6 +128,9 @@ st.bar_chart(units_sold_by_city)
 
 st.subheader("Unit_Price vs Unit_Cost per Product")
 st.altair_chart(unit_price_vs_unit_cost, use_container_width=True)
+
+st.subheader("Unit_Price vs Units sold vs Profit")
+st.plotly_chart(unit_price_vs_units_sold_vs_profit, use_container_width=True)
 
 # Raw Dataset
 st.header("Raw Dataset")
