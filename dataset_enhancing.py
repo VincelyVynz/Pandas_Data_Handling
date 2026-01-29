@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import altair as alt
 
 st.set_page_config(
     page_title="Retail Sales Dashboard",
@@ -84,6 +85,15 @@ profit_by_product_category = df.groupby("Product_Category")["Profit"].sum()
 profit_by_city = df.groupby("City")["Profit"].sum()
 revenue_by_product_category = df.groupby("Product_Category")["Revenue"].sum()
 revenue_by_city = df.groupby("City")["Revenue"].sum()
+products_sell_count = df.groupby("Product")["Units_Sold"].sum()
+units_sold_by_city = df.groupby("City")["Units_Sold"].sum()
+
+unit_price_vs_unit_cost = alt.Chart(df).mark_circle(size=60).encode(
+    x = alt.X("Unit_Cost", title = 'Unit Cost ($)'),
+    y = alt.Y("Unit_Price", title = 'Unit Price ($)'),
+    color = 'Product_Category',
+    tooltip = ['Product', 'Unit_Price', 'Unit_Cost', 'Revenue', 'Profit']
+).interactive()
 
 st.header("Profit and Revenue")
 
@@ -96,6 +106,15 @@ st.subheader("Profit by City")
 st.bar_chart(profit_by_city)
 st.subheader("Revenue by City")
 st.bar_chart(revenue_by_city)
+
+st.subheader("Units sold per Product")
+st.bar_chart(products_sell_count)
+
+st.subheader("Units sold per City")
+st.bar_chart(units_sold_by_city)
+
+st.subheader("Unit_Price vs Unit_Cost per Product")
+st.altair_chart(unit_price_vs_unit_cost, use_container_width=True)
 
 # Raw Dataset
 st.header("Raw Dataset")
